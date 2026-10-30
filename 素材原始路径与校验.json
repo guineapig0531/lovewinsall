@@ -1,0 +1,1196 @@
+[
+  {
+    "number": 1,
+    "file": "b75a445585490c55e51601d0c591a429.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\b75a445585490c55e51601d0c591a429.jpg",
+    "use": "锁屏壁纸",
+    "exists": true,
+    "bytes": 113124,
+    "sha256": "2ee54de5c7f9257fd2604ac521dca51bea065922f231a2c3a52bb260a290e23a",
+    "dimensions": [
+      809,
+      1034
+    ],
+    "readable": true,
+    "asset": "assets/image-01.jpg"
+  },
+  {
+    "number": 2,
+    "file": "2dcda9eb54423b6d8ffe4f725f570ec5.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\2dcda9eb54423b6d8ffe4f725f570ec5.jpg",
+    "use": "李炅潣头像；IG头像指定冲突待确认",
+    "exists": true,
+    "bytes": 167795,
+    "sha256": "77c8390a83fe96cbc647a18330e96c9d3299bc428bd26d28f87a9dfe6526bc3e",
+    "dimensions": [
+      1280,
+      1280
+    ],
+    "readable": true,
+    "asset": "assets/image-02.jpg"
+  },
+  {
+    "number": 3,
+    "file": "8f37097984d9427fdcc9efcd283128e0.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\8f37097984d9427fdcc9efcd283128e0.jpg",
+    "use": "崔英宰头像",
+    "exists": true,
+    "bytes": 136829,
+    "sha256": "ff6a6999a7274e87df0d591826442fc4e686fd72109cb9a7ebeed4b3091cff06",
+    "dimensions": [
+      1279,
+      1303
+    ],
+    "readable": true,
+    "asset": "assets/image-03.jpg"
+  },
+  {
+    "number": 4,
+    "file": "4ab6877cad0337ce5681b6717787d670.jpg",
+    "source": "D:\\电脑管家迁移文件\\xwechat_files\\wxid_mteh5d3qmkrl22_4308\\temp\\RWTemp\\2026-10\\f4712ca00ef247b3ce161ceea1735343\\4ab6877cad0337ce5681b6717787d670.jpg",
+    "use": "音乐专辑封面",
+    "exists": true,
+    "bytes": 95876,
+    "sha256": "874d0f5338cb5e8a46c624c54dc9d70a17b164c3357fcc8f3b0f637a1962035c",
+    "dimensions": [
+      1280,
+      1280
+    ],
+    "readable": true,
+    "asset": "assets/image-04.jpg"
+  },
+  {
+    "number": 5,
+    "file": "3d545143f3bceefcad865c808454c880.png",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\相册\\3d545143f3bceefcad865c808454c880.png",
+    "use": "公开相册（方形缩略图，原图完整查看）",
+    "exists": true,
+    "bytes": 1336415,
+    "sha256": "563da7bda89326d284c048bee9d6f989b0dfaf4fad5285ef260f185861e20041",
+    "dimensions": [
+      1080,
+      878
+    ],
+    "readable": true,
+    "asset": "assets/image-05.png"
+  },
+  {
+    "number": 6,
+    "file": "4a29800273e879f857851e3611b99e96.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\相册\\4a29800273e879f857851e3611b99e96.jpg",
+    "use": "公开相册（方形缩略图，原图完整查看）",
+    "exists": true,
+    "bytes": 333991,
+    "sha256": "c86b49e6080024618cc16c512f19f0f8adbfc1017d9c36512463ffd7f69c8940",
+    "dimensions": [
+      1284,
+      1606
+    ],
+    "readable": true,
+    "asset": "assets/image-06.jpg"
+  },
+  {
+    "number": 7,
+    "file": "6b6057d28696e71ebc03095a07fd56ae.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\相册\\6b6057d28696e71ebc03095a07fd56ae.jpg",
+    "use": "公开相册（方形缩略图，原图完整查看）",
+    "exists": true,
+    "bytes": 158658,
+    "sha256": "832f411d460a94d27da1b02bd166d538d6d1c9c53acab3e1b18e60db6278c008",
+    "dimensions": [
+      1282,
+      1708
+    ],
+    "readable": true,
+    "asset": "assets/image-07.jpg"
+  },
+  {
+    "number": 8,
+    "file": "515f6c516787ea552b22e8226953b32e.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\相册\\515f6c516787ea552b22e8226953b32e.jpg",
+    "use": "公开相册（方形缩略图，原图完整查看）",
+    "exists": true,
+    "bytes": 186186,
+    "sha256": "dc47870999affc9371234598e4581dd60c66368232800231b63efecf700d4c29",
+    "dimensions": [
+      1276,
+      1594
+    ],
+    "readable": true,
+    "asset": "assets/image-08.jpg"
+  },
+  {
+    "number": 9,
+    "file": "538aceaba30b10175c52a32adca12fb8.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\相册\\538aceaba30b10175c52a32adca12fb8.jpg",
+    "use": "公开相册（方形缩略图，原图完整查看）",
+    "exists": true,
+    "bytes": 625286,
+    "sha256": "83c2572a9cb100cad92674ab645eca5750d10692da1152c949a5ab3b430427d5",
+    "dimensions": [
+      1170,
+      1560
+    ],
+    "readable": true,
+    "asset": "assets/image-09.jpg"
+  },
+  {
+    "number": 10,
+    "file": "879c84a1c5aef873b2e3c07c8f1a9fe1.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\相册\\879c84a1c5aef873b2e3c07c8f1a9fe1.jpg",
+    "use": "公开相册（方形缩略图，原图完整查看）",
+    "exists": true,
+    "bytes": 336160,
+    "sha256": "12caf0597c78c15cba71823664094c4fffcf7cc1a812ba8925201548f009e260",
+    "dimensions": [
+      1280,
+      1600
+    ],
+    "readable": true,
+    "asset": "assets/image-10.jpg"
+  },
+  {
+    "number": 11,
+    "file": "89933805c1e53e7c4a8347d0f5e2582d.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\相册\\89933805c1e53e7c4a8347d0f5e2582d.jpg",
+    "use": "公开相册（方形缩略图，原图完整查看）",
+    "exists": true,
+    "bytes": 229445,
+    "sha256": "590f95e4e3afab6f4072c15b19a508094c2075c0fe04f24b4d12362fa2d2d69f",
+    "dimensions": [
+      1282,
+      1602
+    ],
+    "readable": true,
+    "asset": "assets/image-11.jpg"
+  },
+  {
+    "number": 12,
+    "file": "ac56bf6f6871672e8055fed0704bbc8b.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\相册\\ac56bf6f6871672e8055fed0704bbc8b.jpg",
+    "use": "公开相册（方形缩略图，原图完整查看）",
+    "exists": true,
+    "bytes": 273453,
+    "sha256": "d7752ae5a4d292aa649d1f3a3a525c9b4e842b9ee4af464bac0a90061a8ec097",
+    "dimensions": [
+      1282,
+      1604
+    ],
+    "readable": true,
+    "asset": "assets/image-12.jpg"
+  },
+  {
+    "number": 13,
+    "file": "b75a445585490c55e51601d0c591a429.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\相册\\b75a445585490c55e51601d0c591a429.jpg",
+    "use": "公开相册（方形缩略图，原图完整查看）",
+    "exists": true,
+    "bytes": 113124,
+    "sha256": "2ee54de5c7f9257fd2604ac521dca51bea065922f231a2c3a52bb260a290e23a",
+    "dimensions": [
+      809,
+      1034
+    ],
+    "readable": true,
+    "asset": "assets/image-13.jpg"
+  },
+  {
+    "number": 14,
+    "file": "b99342c9f0c0a12d30c9336bcacdd093.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\相册\\b99342c9f0c0a12d30c9336bcacdd093.jpg",
+    "use": "公开相册（方形缩略图，原图完整查看）",
+    "exists": true,
+    "bytes": 265727,
+    "sha256": "4507dadd2bba3237e394815a4a4880a7691b64440843d1240d500df497537ba2",
+    "dimensions": [
+      1080,
+      1350
+    ],
+    "readable": true,
+    "asset": "assets/image-14.jpg"
+  },
+  {
+    "number": 15,
+    "file": "bb51f130e144fdec68d04c1d53037c50.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\相册\\bb51f130e144fdec68d04c1d53037c50.jpg",
+    "use": "公开相册（方形缩略图，原图完整查看）",
+    "exists": true,
+    "bytes": 147944,
+    "sha256": "29032f62b6e2bed0718a42c0a29dbc003c7aed090813e99ed2762d7b33aa7864",
+    "dimensions": [
+      1280,
+      1600
+    ],
+    "readable": true,
+    "asset": "assets/image-15.jpg"
+  },
+  {
+    "number": 16,
+    "file": "c53c0b2224b5ab9e694a788ffeae2f9f.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\相册\\c53c0b2224b5ab9e694a788ffeae2f9f.jpg",
+    "use": "公开相册（方形缩略图，原图完整查看）",
+    "exists": true,
+    "bytes": 179599,
+    "sha256": "e156c1a391949fd59acbea1b6d1dd37525952e9f492fab284d447aefbdbc99a2",
+    "dimensions": [
+      1282,
+      1708
+    ],
+    "readable": true,
+    "asset": "assets/image-16.jpg"
+  },
+  {
+    "number": 17,
+    "file": "c358d1da9ce1a77ba958ac71f81036f5.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\相册\\c358d1da9ce1a77ba958ac71f81036f5.jpg",
+    "use": "公开相册（方形缩略图，原图完整查看）",
+    "exists": true,
+    "bytes": 758172,
+    "sha256": "95bbdfd35d4f9fbe1b70bca7693c8b6de043ea270ab98b180febf7682bcd9248",
+    "dimensions": [
+      1440,
+      1800
+    ],
+    "readable": true,
+    "asset": "assets/image-17.jpg"
+  },
+  {
+    "number": 18,
+    "file": "e85e887518b52162999f78932f4e00b3.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\相册\\e85e887518b52162999f78932f4e00b3.jpg",
+    "use": "公开相册（方形缩略图，原图完整查看）",
+    "exists": true,
+    "bytes": 160274,
+    "sha256": "a8c08367166c0d382d3fd666b9651cec58719a8bdc859f43f41f3189aab78bb1",
+    "dimensions": [
+      1226,
+      960
+    ],
+    "readable": true,
+    "asset": "assets/image-18.jpg"
+  },
+  {
+    "number": 19,
+    "file": "ee7c7120ce3d9e8bf0cad96da7d07be2.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\相册\\ee7c7120ce3d9e8bf0cad96da7d07be2.jpg",
+    "use": "公开相册（方形缩略图，原图完整查看）",
+    "exists": true,
+    "bytes": 908668,
+    "sha256": "5feb503eb87e516984e5383cee9acfdefb0be6ab2de049966e707d8d162ffecf",
+    "dimensions": [
+      2000,
+      2502
+    ],
+    "readable": true,
+    "asset": "assets/image-19.jpg"
+  },
+  {
+    "number": 20,
+    "file": "f6929e6b5cd0831a8c304094edde7c4d.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\相册\\f6929e6b5cd0831a8c304094edde7c4d.jpg",
+    "use": "公开相册（方形缩略图，原图完整查看）",
+    "exists": true,
+    "bytes": 60906,
+    "sha256": "f143ca28f867d0f809c3a7453f381748a383375a9adab83981d732a4dbf0f196",
+    "dimensions": [
+      544,
+      680
+    ],
+    "readable": true,
+    "asset": "assets/image-20.jpg"
+  },
+  {
+    "number": 21,
+    "file": "fbaeb3af573cf50eda547d951b67b486.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\相册\\fbaeb3af573cf50eda547d951b67b486.jpg",
+    "use": "公开相册（方形缩略图，原图完整查看）",
+    "exists": true,
+    "bytes": 1778835,
+    "sha256": "bb5a939ee83edd08ec170fce20bd395b638199f149e62bc4e57b27fd0fd0685e",
+    "dimensions": [
+      2315,
+      2908
+    ],
+    "readable": true,
+    "asset": "assets/image-21.jpg"
+  },
+  {
+    "number": 22,
+    "file": "1bb0b363558fbcb7be72d9bb713057b9.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\隐藏相册\\1bb0b363558fbcb7be72d9bb713057b9.jpg",
+    "use": "隐藏相册；单人照用于Instagram",
+    "exists": true,
+    "bytes": 94336,
+    "sha256": "0f524d389b5b34b5bc0c312bc2e10bf693432d5a881b10224030b4e6efda08ce",
+    "dimensions": [
+      1170,
+      866
+    ],
+    "readable": true,
+    "asset": "assets/image-22.jpg"
+  },
+  {
+    "number": 23,
+    "file": "5efdd9c92ce6a9b78f00ccc3897e3853.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\隐藏相册\\5efdd9c92ce6a9b78f00ccc3897e3853.jpg",
+    "use": "隐藏相册；单人照用于Instagram",
+    "exists": true,
+    "bytes": 3622800,
+    "sha256": "0fc44412365f98ca6ee7158193e74edef505feba983ad549449539a88b1b36e6",
+    "dimensions": [
+      3024,
+      4032
+    ],
+    "readable": true,
+    "asset": "assets/image-23.jpg"
+  },
+  {
+    "number": 24,
+    "file": "8a7204c4c0381880873963ed0b44ca69.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\隐藏相册\\8a7204c4c0381880873963ed0b44ca69.jpg",
+    "use": "隐藏相册；单人照用于Instagram",
+    "exists": true,
+    "bytes": 263216,
+    "sha256": "6c9d2e9e9016d724d875709efa79f52fa44d3c37712bc46315fd3168cc40b17b",
+    "dimensions": [
+      1170,
+      1437
+    ],
+    "readable": true,
+    "asset": "assets/image-24.jpg"
+  },
+  {
+    "number": 25,
+    "file": "66df9baa1a34cb3be3e6b72ca92f4342.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\隐藏相册\\66df9baa1a34cb3be3e6b72ca92f4342.jpg",
+    "use": "隐藏相册；单人照用于Instagram",
+    "exists": true,
+    "bytes": 101070,
+    "sha256": "95d179f146d76c0da4e2d116540b1d5ce378ac0f220253a6e47bada6291f69d1",
+    "dimensions": [
+      960,
+      1278
+    ],
+    "readable": true,
+    "asset": "assets/image-25.jpg"
+  },
+  {
+    "number": 26,
+    "file": "73d0f2a06c71df8c903faaaed85b423f.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\隐藏相册\\73d0f2a06c71df8c903faaaed85b423f.jpg",
+    "use": "隐藏相册；单人照用于Instagram",
+    "exists": true,
+    "bytes": 460938,
+    "sha256": "34ac327ac7429465686558017bc6dde854e8d1a2928803ad12d7f8a89a7f4037",
+    "dimensions": [
+      1278,
+      1596
+    ],
+    "readable": true,
+    "asset": "assets/image-26.jpg"
+  },
+  {
+    "number": 27,
+    "file": "74c12d423cc1b185e2c31d77cbeacbea.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\隐藏相册\\74c12d423cc1b185e2c31d77cbeacbea.jpg",
+    "use": "隐藏相册；单人照用于Instagram",
+    "exists": true,
+    "bytes": 202989,
+    "sha256": "f0bf1a1805a829e7917eb85845dd93f7993cf1e094531f35360d67e8761f1665",
+    "dimensions": [
+      1080,
+      1349
+    ],
+    "readable": true,
+    "asset": "assets/image-27.jpg"
+  },
+  {
+    "number": 28,
+    "file": "91ab6d799705a5a5c6f8350853860724.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\隐藏相册\\91ab6d799705a5a5c6f8350853860724.jpg",
+    "use": "隐藏相册；单人照用于Instagram",
+    "exists": true,
+    "bytes": 248981,
+    "sha256": "907098a7df10f83e6ea57cb363a3e448c635e94b4f680be241ddbaede7ef5fdb",
+    "dimensions": [
+      1278,
+      1596
+    ],
+    "readable": true,
+    "asset": "assets/image-28.jpg"
+  },
+  {
+    "number": 29,
+    "file": "95d28173c9b698022cc663f8cc23669a.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\隐藏相册\\95d28173c9b698022cc663f8cc23669a.jpg",
+    "use": "隐藏相册；单人照用于Instagram",
+    "exists": true,
+    "bytes": 191114,
+    "sha256": "853d7881c096ac73a8194cac27fd99fc6cd816287c2772ff30fdde2b9c90f462",
+    "dimensions": [
+      1276,
+      1702
+    ],
+    "readable": true,
+    "asset": "assets/image-29.jpg"
+  },
+  {
+    "number": 30,
+    "file": "258b813cd2311673f22f58eebfb02f5b.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\隐藏相册\\258b813cd2311673f22f58eebfb02f5b.jpg",
+    "use": "隐藏相册；单人照用于Instagram",
+    "exists": true,
+    "bytes": 303006,
+    "sha256": "b36552881a9ed86991da53aedfc091d98ab77cbdc63b8c89aa30ea716d2f9c18",
+    "dimensions": [
+      1080,
+      1350
+    ],
+    "readable": true,
+    "asset": "assets/image-30.jpg"
+  },
+  {
+    "number": 31,
+    "file": "963a547b1b2f13883c13a9667c4aa330.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\隐藏相册\\963a547b1b2f13883c13a9667c4aa330.jpg",
+    "use": "隐藏相册；单人照用于Instagram",
+    "exists": true,
+    "bytes": 75529,
+    "sha256": "c222aadfc2503dbc830f5ad53dd0d65c0e79af8fb00f0dd0c7d2c1b0eb50ddc5",
+    "dimensions": [
+      962,
+      1208
+    ],
+    "readable": true,
+    "asset": "assets/image-31.jpg"
+  },
+  {
+    "number": 32,
+    "file": "28710686ac93cf0dedfc6aed8bbc7e5d.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\隐藏相册\\28710686ac93cf0dedfc6aed8bbc7e5d.jpg",
+    "use": "隐藏相册；单人照用于Instagram",
+    "exists": true,
+    "bytes": 4978790,
+    "sha256": "eac1a6fc048838b2e44ebaa4f97d4e295cb25179c83676f4f5fcb8c949914aa4",
+    "dimensions": [
+      3024,
+      4032
+    ],
+    "readable": true,
+    "asset": "assets/image-32.jpg"
+  },
+  {
+    "number": 33,
+    "file": "adaff47490f15bcce0d91f9b7ddbb625.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\隐藏相册\\adaff47490f15bcce0d91f9b7ddbb625.jpg",
+    "use": "隐藏相册；单人照用于Instagram",
+    "exists": true,
+    "bytes": 254444,
+    "sha256": "8cb55ef14749df8289d838bdbd06328fd44ddc47683388dcf524bc76b057903b",
+    "dimensions": [
+      1282,
+      1604
+    ],
+    "readable": true,
+    "asset": "assets/image-33.jpg"
+  },
+  {
+    "number": 34,
+    "file": "c9f2f7a010464312e08d0644c0ffa7df.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\隐藏相册\\c9f2f7a010464312e08d0644c0ffa7df.jpg",
+    "use": "隐藏相册；单人照用于Instagram",
+    "exists": true,
+    "bytes": 93720,
+    "sha256": "6df364a87e5e26ea069b18682edb60f29c2e609c8c4af7493acdac64148600ce",
+    "dimensions": [
+      962,
+      1204
+    ],
+    "readable": true,
+    "asset": "assets/image-34.jpg"
+  },
+  {
+    "number": 35,
+    "file": "c17a4df8bbe54ff5edfb7c65f2efda3a.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\隐藏相册\\c17a4df8bbe54ff5edfb7c65f2efda3a.jpg",
+    "use": "隐藏相册；单人照用于Instagram",
+    "exists": true,
+    "bytes": 372761,
+    "sha256": "979433f25a1cc1dfd3164516747205fba168653e3b82eae37a8e989300a5dcdb",
+    "dimensions": [
+      1280,
+      1602
+    ],
+    "readable": true,
+    "asset": "assets/image-35.jpg"
+  },
+  {
+    "number": 36,
+    "file": "dde16f24b6937a467ff09e44f42abc25.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\隐藏相册\\dde16f24b6937a467ff09e44f42abc25.jpg",
+    "use": "隐藏相册；单人照用于Instagram",
+    "exists": true,
+    "bytes": 159055,
+    "sha256": "ff06f5e7ebbf46065fd3439188da8bd51d7aba8af9a804be7660664073cd4d65",
+    "dimensions": [
+      1282,
+      1604
+    ],
+    "readable": true,
+    "asset": "assets/image-36.jpg"
+  },
+  {
+    "number": 37,
+    "file": "ec93f62d35b170917dc9113a9795d80a.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\隐藏相册\\ec93f62d35b170917dc9113a9795d80a.jpg",
+    "use": "隐藏相册；单人照用于Instagram",
+    "exists": true,
+    "bytes": 52345,
+    "sha256": "fe28fdcf2e283f03047be6cef4c5e2f9aab30dbfa7d072b24f7c03c68ad2dc4d",
+    "dimensions": [
+      958,
+      1278
+    ],
+    "readable": true,
+    "asset": "assets/image-37.jpg"
+  },
+  {
+    "number": 38,
+    "file": "ChatGPT 图像 2026年10月25日 10_45_57-2.png",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\素材\\ChatGPT 图像 2026年10月25日 10_45_57-2.png",
+    "use": "界面参考，不作为照片内容",
+    "exists": true,
+    "bytes": 1279829,
+    "sha256": "8cd0bde6ee4c41566afe26714d35c54c1066b984662693a38430f2ea1197cab7",
+    "dimensions": [
+      1448,
+      1086
+    ],
+    "readable": true,
+    "asset": "assets/image-38.png"
+  },
+  {
+    "number": 39,
+    "file": "ChatGPT 图像 2026年10月25日 10_46_01-3.png",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\素材\\ChatGPT 图像 2026年10月25日 10_46_01-3.png",
+    "use": "界面参考，不作为照片内容",
+    "exists": true,
+    "bytes": 1856209,
+    "sha256": "301a0ebead996075995b3e9661e56a6c66879eb6b0e787b33385d84a000625ce",
+    "dimensions": [
+      1448,
+      1086
+    ],
+    "readable": true,
+    "asset": "assets/image-39.png"
+  },
+  {
+    "number": 40,
+    "file": "ChatGPT 图像 2026年10月25日 10_46_04-4.png",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\素材\\ChatGPT 图像 2026年10月25日 10_46_04-4.png",
+    "use": "界面参考，不作为照片内容",
+    "exists": true,
+    "bytes": 1259338,
+    "sha256": "62c8a7ec437680b66b906530c064faee424860b45fb0122c7fa420b7270e63ef",
+    "dimensions": [
+      1448,
+      1086
+    ],
+    "readable": true,
+    "asset": "assets/image-40.png"
+  },
+  {
+    "number": 41,
+    "file": "ChatGPT 图像 2026年10月25日 10_46_06-5.png",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\素材\\ChatGPT 图像 2026年10月25日 10_46_06-5.png",
+    "use": "界面参考，不作为照片内容",
+    "exists": true,
+    "bytes": 1458772,
+    "sha256": "fdc7a9eec808186c9d6ec102f703f0b8f92f171d6e11319a06c3a49407a13822",
+    "dimensions": [
+      1448,
+      1086
+    ],
+    "readable": true,
+    "asset": "assets/image-41.png"
+  },
+  {
+    "number": 42,
+    "file": "ChatGPT 图像 2026年10月25日 10_46_08-6.png",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\素材\\ChatGPT 图像 2026年10月25日 10_46_08-6.png",
+    "use": "界面参考，不作为照片内容",
+    "exists": true,
+    "bytes": 1432132,
+    "sha256": "517f141bc102d714e4f48c2c430dbad537592f04772f9d68afb052d22494f729",
+    "dimensions": [
+      1448,
+      1086
+    ],
+    "readable": true,
+    "asset": "assets/image-42.png"
+  },
+  {
+    "number": 43,
+    "file": "ChatGPT 图像 2026年10月25日 10_46_09-7.png",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\素材\\ChatGPT 图像 2026年10月25日 10_46_09-7.png",
+    "use": "界面参考，不作为照片内容",
+    "exists": true,
+    "bytes": 1424561,
+    "sha256": "875d493ebf994621b0e01a5dafb284972d018e64bb897490d8ccbe584d56cb9a",
+    "dimensions": [
+      1448,
+      1086
+    ],
+    "readable": true,
+    "asset": "assets/image-43.png"
+  },
+  {
+    "number": 44,
+    "file": "ChatGPT 图像 2026年10月25日 11_37_36-1.png",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\素材\\ChatGPT 图像 2026年10月25日 11_37_36-1.png",
+    "use": "界面参考，不作为照片内容",
+    "exists": true,
+    "bytes": 1390289,
+    "sha256": "b621a84b93b197acd84005498aa7500796f43f33c67d1c6394a125b6a09d9fd4",
+    "dimensions": [
+      1448,
+      1086
+    ],
+    "readable": true,
+    "asset": "assets/image-44.png"
+  },
+  {
+    "number": 45,
+    "file": "ChatGPT 图像 2026年10月25日 11_37_40-2.png",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\素材\\ChatGPT 图像 2026年10月25日 11_37_40-2.png",
+    "use": "界面参考，不作为照片内容",
+    "exists": true,
+    "bytes": 1749224,
+    "sha256": "002118597ca50c4b971057788f9adf1736e7c28e11e62899c5f003d3e5184ae6",
+    "dimensions": [
+      1448,
+      1086
+    ],
+    "readable": true,
+    "asset": "assets/image-45.png"
+  },
+  {
+    "number": 46,
+    "file": "ChatGPT 图像 2026年10月25日 11_37_42-3.png",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\素材\\ChatGPT 图像 2026年10月25日 11_37_42-3.png",
+    "use": "界面参考，不作为照片内容",
+    "exists": true,
+    "bytes": 1973161,
+    "sha256": "7bc12989b2e247a1348264d35e1dbf46bdec5e5c7cc630b355cb03c78c7e2aa9",
+    "dimensions": [
+      1448,
+      1086
+    ],
+    "readable": true,
+    "asset": "assets/image-46.png"
+  },
+  {
+    "number": 47,
+    "file": "ChatGPT 图像 2026年10月25日 12_19_33-1.png",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\素材\\ChatGPT 图像 2026年10月25日 12_19_33-1.png",
+    "use": "界面参考，不作为照片内容",
+    "exists": true,
+    "bytes": 1721234,
+    "sha256": "5625f084337cf004a2f6acfa25da87a051b6592c77e3d5d58d584abda42c6063",
+    "dimensions": [
+      1448,
+      1086
+    ],
+    "readable": true,
+    "asset": "assets/image-47.png"
+  },
+  {
+    "number": 48,
+    "file": "ChatGPT 图像 2026年10月25日 12_19_39-2.png",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\素材\\ChatGPT 图像 2026年10月25日 12_19_39-2.png",
+    "use": "界面参考，不作为照片内容",
+    "exists": true,
+    "bytes": 1909000,
+    "sha256": "7e5e38984c016786cb3275f4e4a3d8e0d8610b0f2224246a10d6d5c403678526",
+    "dimensions": [
+      1448,
+      1086
+    ],
+    "readable": true,
+    "asset": "assets/image-48.png"
+  },
+  {
+    "number": 49,
+    "file": "X社交平台五屏界面展示.png",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\素材\\X社交平台五屏界面展示.png",
+    "use": "界面参考，不作为照片内容",
+    "exists": true,
+    "bytes": 1813328,
+    "sha256": "bba60777411c5de97f9fe56b0c38e32452ed127a138f3b7727c4c380384bb8f5",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "readable": true,
+    "asset": "assets/image-49.png"
+  },
+  {
+    "number": 50,
+    "file": "双屏 iPhone 通话界面展示.png",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\素材\\双屏 iPhone 通话界面展示.png",
+    "use": "界面参考，不作为照片内容",
+    "exists": true,
+    "bytes": 1462903,
+    "sha256": "eec9645d0c88585b4fe8c315008183623d690a470b7dbf8dab7a9dbcfbc4df0b",
+    "dimensions": [
+      1312,
+      1199
+    ],
+    "readable": true,
+    "asset": "assets/image-50.png"
+  },
+  {
+    "number": 51,
+    "file": "双屏苹果时钟界面展示.png",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\素材\\双屏苹果时钟界面展示.png",
+    "use": "界面参考，不作为照片内容",
+    "exists": true,
+    "bytes": 1496262,
+    "sha256": "1761ebaf17c3ad0593a2fc916e1f131bdab6c33ebedf8f0854eed830938b6241",
+    "dimensions": [
+      1448,
+      1086
+    ],
+    "readable": true,
+    "asset": "assets/image-51.png"
+  },
+  {
+    "number": 52,
+    "file": "双屏夕阳海景 iPhone 界面.png",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\素材\\双屏夕阳海景 iPhone 界面.png",
+    "use": "界面参考，不作为照片内容",
+    "exists": true,
+    "bytes": 1717705,
+    "sha256": "2f4e9757d79315216e8f1c20aee3d8e00e7a3e42a78f9908880248d7ea2df116",
+    "dimensions": [
+      1448,
+      1086
+    ],
+    "readable": true,
+    "asset": "assets/image-52.png"
+  },
+  {
+    "number": 53,
+    "file": "双屏中文 iPhone 通话界面.png",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\素材\\双屏中文 iPhone 通话界面.png",
+    "use": "界面参考，不作为照片内容",
+    "exists": true,
+    "bytes": 1281201,
+    "sha256": "eeb376386d05588ac1a5973e8d749326623386c225f9d2a7f113ca95967733cd",
+    "dimensions": [
+      1312,
+      1199
+    ],
+    "readable": true,
+    "asset": "assets/image-53.png"
+  },
+  {
+    "number": 54,
+    "file": "95805ac2ee0d3f3f61867f41cc525b03.jpg",
+    "source": "D:\\电脑管家迁移文件\\xwechat_files\\wxid_mteh5d3qmkrl22_4308\\temp\\RWTemp\\2026-10\\f4712ca00ef247b3ce161ceea1735343\\95805ac2ee0d3f3f61867f41cc525b03.jpg",
+    "use": "李炅潣聊天正文依据",
+    "exists": true,
+    "bytes": 378926,
+    "sha256": "c1809f2c92cf1041dd1945d306da0ceb0327cc52a039c4498e41e18bd969ae92",
+    "dimensions": [
+      1206,
+      5121
+    ],
+    "readable": true,
+    "asset": "assets/image-54.jpg"
+  },
+  {
+    "number": 55,
+    "file": "9641b6516af7a459071ab3f5fb34f150.jpg",
+    "source": "D:\\电脑管家迁移文件\\xwechat_files\\wxid_mteh5d3qmkrl22_4308\\temp\\RWTemp\\2026-10\\f4712ca00ef247b3ce161ceea1735343\\9641b6516af7a459071ab3f5fb34f150.jpg",
+    "use": "崔英宰聊天正文与语音流程依据",
+    "exists": true,
+    "bytes": 133907,
+    "sha256": "412adec4ec50bbcf743e3a713c477358a5056e027084b2d018889f95977e7956",
+    "dimensions": [
+      1206,
+      1608
+    ],
+    "readable": true,
+    "asset": "assets/image-55.jpg"
+  },
+  {
+    "number": 56,
+    "file": "1.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\1.jpg",
+    "use": "X个人主页参考",
+    "exists": true,
+    "bytes": 253343,
+    "sha256": "4b989a263d6fbebecc904a1fb97484a2296493f10ead3ee2a67634e4c8223331",
+    "dimensions": [
+      1206,
+      2622
+    ],
+    "readable": true,
+    "asset": "assets/image-56.jpg"
+  },
+  {
+    "number": 57,
+    "file": "2.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\2.jpg",
+    "use": "X正文第1条及回复，按发布时间展示",
+    "exists": true,
+    "bytes": 111782,
+    "sha256": "f6bdc0eb43fcd7171f1d4485206685b492a7d9e658ab875f2d67937cf178f1e9",
+    "dimensions": [
+      1179,
+      1221
+    ],
+    "readable": true,
+    "asset": "assets/image-57.jpg"
+  },
+  {
+    "number": 58,
+    "file": "3.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\3.jpg",
+    "use": "X正文第2条及回复，按发布时间展示",
+    "exists": true,
+    "bytes": 189293,
+    "sha256": "4dd31ef2474976f1d398d57bf53cf5fbcbf456ca56b4922b24c48b991dc7910e",
+    "dimensions": [
+      1179,
+      1824
+    ],
+    "readable": true,
+    "asset": "assets/image-58.jpg"
+  },
+  {
+    "number": 59,
+    "file": "4.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\4.jpg",
+    "use": "X正文第3条及回复，按发布时间展示",
+    "exists": true,
+    "bytes": 156743,
+    "sha256": "14838f67b27e806eeafa70a70ba71b72001251dbb1bfa25bd87b01ebac5631df",
+    "dimensions": [
+      1179,
+      1416
+    ],
+    "readable": true,
+    "asset": "assets/image-59.jpg"
+  },
+  {
+    "number": 60,
+    "file": "5.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\5.jpg",
+    "use": "X正文第4条及回复，按发布时间展示",
+    "exists": true,
+    "bytes": 127292,
+    "sha256": "1b07e2f75d9120f26fb00163130a2115be0c5277e32ae0d9d162cd23f4a44803",
+    "dimensions": [
+      1179,
+      1281
+    ],
+    "readable": true,
+    "asset": "assets/image-60.jpg"
+  },
+  {
+    "number": 61,
+    "file": "6.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\6.jpg",
+    "use": "X正文第5条及回复，按发布时间展示",
+    "exists": true,
+    "bytes": 142382,
+    "sha256": "497fc4d4ca6c2c008e2e187b0716612de616856c5efc98918482c61f758204c8",
+    "dimensions": [
+      1179,
+      1296
+    ],
+    "readable": true,
+    "asset": "assets/image-61.jpg"
+  },
+  {
+    "number": 62,
+    "file": "7.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\7.jpg",
+    "use": "X正文第6条及回复，按发布时间展示",
+    "exists": true,
+    "bytes": 92894,
+    "sha256": "3441a7c0a2939c0d0e356414d7c00baa51f69b187754acb4af19034b49385633",
+    "dimensions": [
+      1179,
+      1023
+    ],
+    "readable": true,
+    "asset": "assets/image-62.jpg"
+  },
+  {
+    "number": "音频1",
+    "file": "1.mp3",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\1.mp3",
+    "use": "未知用户通话1",
+    "exists": true,
+    "bytes": 1929115,
+    "sha256": "81e9113651a0988db8c458569f1f5ff817140a269ca7b9499ab836db8a7604d3",
+    "seconds": 51.06,
+    "format": "MP4",
+    "readable": true,
+    "asset": "assets/audio-1.m4a"
+  },
+  {
+    "number": "音频2",
+    "file": "2.mp3",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\2.mp3",
+    "use": "音乐 YOU LIKE IT I LOVE IT",
+    "exists": true,
+    "bytes": 8024996,
+    "sha256": "6e56bcdb2790b9873d08b6083137027fbc25c336e0839749de31c0faa2219a18",
+    "seconds": 181.56,
+    "format": "MP4",
+    "readable": true,
+    "asset": "assets/audio-2.m4a"
+  },
+  {
+    "number": "音频3",
+    "file": "3.mp3",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\3.mp3",
+    "use": "崔英宰语音消息（实际为M4A容器）",
+    "exists": true,
+    "bytes": 164314,
+    "sha256": "ba080ab42076f36a33cc0b95c7b8fafbd3a1b0f17e290f5b9ce65eb0ad910996",
+    "seconds": 2.95,
+    "format": "MP4",
+    "readable": true,
+    "asset": "assets/audio-3.m4a"
+  },
+  {
+    "number": "音频4",
+    "file": "4.mp3",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\4.mp3",
+    "use": "崔英宰通话2，用户已补充确认",
+    "exists": true,
+    "bytes": 905541,
+    "sha256": "860a8112acbbc9f3d5f141a2ed276038402addb661d4d5ea9b7fadab56ddd0cd",
+    "seconds": 23.27,
+    "format": "MP4",
+    "readable": true,
+    "asset": "assets/audio-4.m4a"
+  },
+  {
+    "number": "补充IG头像",
+    "file": "edc89062ecef6966132aee62edaf5254.jpg",
+    "source": "D:\\电脑管家迁移文件\\xwechat_files\\wxid_mteh5d3qmkrl22_4308\\temp\\RWTemp\\2026-10\\f4712ca00ef247b3ce161ceea1735343\\edc89062ecef6966132aee62edaf5254.jpg",
+    "use": "申正焕Instagram头像",
+    "exists": true,
+    "readable": true,
+    "dimensions": [
+      1280,
+      1280
+    ],
+    "bytes": 149354,
+    "sha256": "b635ac395956114ca0dfe24699d8b1af0eff175b91a8710a6284a22ab1946d06",
+    "asset": "assets/ig-shinyu-avatar.jpg"
+  },
+  {
+    "number": "补充结尾快拍",
+    "file": "2c2bb44b73f9d6420a1aabae322eec92.jpg",
+    "source": "D:\\电脑管家迁移文件\\xwechat_files\\wxid_mteh5d3qmkrl22_4308\\temp\\RWTemp\\2026-10\\f4712ca00ef247b3ce161ceea1735343\\2c2bb44b73f9d6420a1aabae322eec92.jpg",
+    "use": "第二通结束后英宰IG快拍；配字형과 함께",
+    "exists": true,
+    "readable": true,
+    "dimensions": [
+      960,
+      1280
+    ],
+    "bytes": 79741,
+    "sha256": "bc0d7bec692afa61d3753f9347ca4b2a99d12a1e5edb222270982dc772b77dab",
+    "asset": "assets/ig-ending-story.jpg"
+  },
+  {
+    "file": "f3457740b200f114126c299baa37a4f9.mp4",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\f3457740b200f114126c299baa37a4f9.mp4",
+    "use": "FaceTime视频1",
+    "exists": true,
+    "bytes": 356367,
+    "sha256": "a893a23a2d07e6579b9d31c346db45ac3c50daa4ab0ec3e9f9f034d2d1c162d4",
+    "asset": "assets/facetime-youngjae.mp4",
+    "duration_seconds": 5.7,
+    "dimensions": [
+      720,
+      1168
+    ],
+    "readable": true,
+    "validation": "电脑浏览器已解码并播放",
+    "number": "第二轮-1"
+  },
+  {
+    "file": "01.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\01.jpg",
+    "use": "英宰X推文原稿",
+    "exists": true,
+    "bytes": 108199,
+    "sha256": "8249865913ebd8b8af11b444a032946924303bec1c815be2e74b0d4cde6d18aa",
+    "asset": "assets/round2-x-01.jpg",
+    "dimensions": [
+      1179,
+      1281
+    ],
+    "readable": true,
+    "number": "第二轮-2"
+  },
+  {
+    "file": "02.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\02.jpg",
+    "use": "英宰X推文原稿",
+    "exists": true,
+    "bytes": 93353,
+    "sha256": "bd8ea7f9c26c1cf858fe4901fece7f3d66521f4d545db58a6bdcccd8406c5ab6",
+    "asset": "assets/round2-x-02.jpg",
+    "dimensions": [
+      1179,
+      963
+    ],
+    "readable": true,
+    "number": "第二轮-3"
+  },
+  {
+    "file": "03.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\03.jpg",
+    "use": "英宰X推文原稿",
+    "exists": true,
+    "bytes": 154704,
+    "sha256": "fb095838911444575d8695aedd33fcee60de5af9a4ceb8b14e9412a8b277d246",
+    "asset": "assets/round2-x-03.jpg",
+    "dimensions": [
+      1179,
+      1689
+    ],
+    "readable": true,
+    "number": "第二轮-4"
+  },
+  {
+    "file": "04.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\04.jpg",
+    "use": "英宰X推文原稿",
+    "exists": true,
+    "bytes": 64229,
+    "sha256": "52916258e7521009e7b92bb2abfe49c43f0e27206307296d00e841197373ca5c",
+    "asset": "assets/round2-x-04.jpg",
+    "dimensions": [
+      1179,
+      588
+    ],
+    "readable": true,
+    "number": "第二轮-5"
+  },
+  {
+    "file": "05.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\05.jpg",
+    "use": "英宰X主页原稿及头像来源",
+    "exists": true,
+    "bytes": 227691,
+    "sha256": "3f62c1b7fbd7b1d746dc17f7f03a470687e739281831d1f58a32e7b311120dcf",
+    "asset": "assets/round2-x-05.jpg",
+    "dimensions": [
+      1206,
+      2622
+    ],
+    "readable": true,
+    "number": "第二轮-6"
+  },
+  {
+    "file": "中文 FaceTime 双屏通话界面ԥсҭазаара.png",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\中文 FaceTime 双屏通话界面ԥсҭазаара.png",
+    "use": "FaceTime内部界面参考",
+    "exists": true,
+    "bytes": 1695991,
+    "sha256": "8285017d18754bf4240710f797fe97c13f8ae11bf7bdbee2053f64959ad88a31",
+    "asset": "assets/round2-facetime-reference.png",
+    "dimensions": [
+      1448,
+      1086
+    ],
+    "readable": true,
+    "number": "第二轮-7"
+  },
+  {
+    "file": "c0954aeaa601c06583ac43d7902a7ace.jpg",
+    "source": "D:\\电脑管家迁移文件\\xwechat_files\\wxid_mteh5d3qmkrl22_4308\\temp\\RWTemp\\2026-10\\f4712ca00ef247b3ce161ceea1735343\\c0954aeaa601c06583ac43d7902a7ace.jpg",
+    "use": "第二通来电结束后的新增KakaoTalk对话原稿",
+    "exists": true,
+    "bytes": 67449,
+    "sha256": "da053631191cd38b6b1f9b3a9a883c519d28a68eab718c3321b233a23d51f4e2",
+    "asset": "assets/round2-kakao.jpg",
+    "dimensions": [
+      1206,
+      870
+    ],
+    "readable": true,
+    "number": "第二轮-8"
+  },
+  {
+    "number": 63,
+    "file": "091ec8847ef6b3d21f730ca37c69128d.jpg",
+    "source": "D:\\电脑管家迁移文件\\xwechat_files\\wxid_mteh5d3qmkrl22_4308\\temp\\RWTemp\\2026-10\\f4712ca00ef247b3ce161ceea1735343\\091ec8847ef6b3d21f730ca37c69128d.jpg",
+    "use": "第二轮公开相册新增照片1，第二通电话结束后解锁",
+    "exists": true,
+    "readable": true,
+    "dimensions": [
+      1080,
+      1346
+    ],
+    "bytes": 673005,
+    "sha256": "7b697f207fd75468842ab6a088eb5793f256de22af49fd4cd3829de686db48c9",
+    "asset": "assets/round2-public-1.jpg"
+  },
+  {
+    "number": 64,
+    "file": "4d350b38ce36d0b6dad94025e306083b.jpg",
+    "source": "D:\\电脑管家迁移文件\\xwechat_files\\wxid_mteh5d3qmkrl22_4308\\temp\\RWTemp\\2026-10\\f4712ca00ef247b3ce161ceea1735343\\4d350b38ce36d0b6dad94025e306083b.jpg",
+    "use": "第二轮公开相册新增照片2，第二通电话结束后解锁",
+    "exists": true,
+    "readable": true,
+    "dimensions": [
+      1280,
+      1707
+    ],
+    "bytes": 171943,
+    "sha256": "abc8e6d97a2f3d62ef0170bfd4193746fd2d7754ce1798228a39f5c6e364274b",
+    "asset": "assets/round2-public-2.jpg"
+  },
+  {
+    "number": 65,
+    "file": "e5c59de4ae9cf6e4e2734699ec3a78da.jpg",
+    "source": "D:\\电脑管家迁移文件\\xwechat_files\\wxid_mteh5d3qmkrl22_4308\\temp\\RWTemp\\2026-10\\f4712ca00ef247b3ce161ceea1735343\\e5c59de4ae9cf6e4e2734699ec3a78da.jpg",
+    "use": "第二轮公开相册新增照片3，第二通电话结束后解锁",
+    "exists": true,
+    "readable": true,
+    "dimensions": [
+      721,
+      961
+    ],
+    "bytes": 245126,
+    "sha256": "c903dcf56c0cad267dbd7b0204fedb91cf247bb5787382b4e9e0b724244a6a22",
+    "asset": "assets/round2-public-3.jpg"
+  },
+  {
+    "number": 66,
+    "file": "c4de20ad84e687b45fbc6197350b6501.jpg",
+    "source": "D:\\电脑管家迁移文件\\xwechat_files\\wxid_mteh5d3qmkrl22_4308\\temp\\RWTemp\\2026-10\\f4712ca00ef247b3ce161ceea1735343\\c4de20ad84e687b45fbc6197350b6501.jpg",
+    "use": "第二轮公开相册新增照片4，第二通电话结束后解锁",
+    "exists": true,
+    "readable": true,
+    "dimensions": [
+      1280,
+      1707
+    ],
+    "bytes": 263038,
+    "sha256": "7381a8101eaaeacb5cce6fa08dd482cb73605b5c191837cdb0f34bb6bf7f5006",
+    "asset": "assets/round2-public-4.jpg"
+  }
+]

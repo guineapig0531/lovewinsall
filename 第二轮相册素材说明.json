@@ -1,0 +1,62 @@
+[
+  {
+    "number": 63,
+    "file": "091ec8847ef6b3d21f730ca37c69128d.jpg",
+    "source": "D:\\电脑管家迁移文件\\xwechat_files\\wxid_mteh5d3qmkrl22_4308\\temp\\RWTemp\\2026-10\\f4712ca00ef247b3ce161ceea1735343\\091ec8847ef6b3d21f730ca37c69128d.jpg",
+    "use": "第二轮公开相册新增照片1，第二通电话结束后解锁",
+    "exists": true,
+    "readable": true,
+    "dimensions": [
+      1080,
+      1346
+    ],
+    "bytes": 673005,
+    "sha256": "7b697f207fd75468842ab6a088eb5793f256de22af49fd4cd3829de686db48c9",
+    "asset": "assets/round2-public-1.jpg"
+  },
+  {
+    "number": 64,
+    "file": "4d350b38ce36d0b6dad94025e306083b.jpg",
+    "source": "D:\\电脑管家迁移文件\\xwechat_files\\wxid_mteh5d3qmkrl22_4308\\temp\\RWTemp\\2026-10\\f4712ca00ef247b3ce161ceea1735343\\4d350b38ce36d0b6dad94025e306083b.jpg",
+    "use": "第二轮公开相册新增照片2，第二通电话结束后解锁",
+    "exists": true,
+    "readable": true,
+    "dimensions": [
+      1280,
+      1707
+    ],
+    "bytes": 171943,
+    "sha256": "abc8e6d97a2f3d62ef0170bfd4193746fd2d7754ce1798228a39f5c6e364274b",
+    "asset": "assets/round2-public-2.jpg"
+  },
+  {
+    "number": 65,
+    "file": "e5c59de4ae9cf6e4e2734699ec3a78da.jpg",
+    "source": "D:\\电脑管家迁移文件\\xwechat_files\\wxid_mteh5d3qmkrl22_4308\\temp\\RWTemp\\2026-10\\f4712ca00ef247b3ce161ceea1735343\\e5c59de4ae9cf6e4e2734699ec3a78da.jpg",
+    "use": "第二轮公开相册新增照片3，第二通电话结束后解锁",
+    "exists": true,
+    "readable": true,
+    "dimensions": [
+      721,
+      961
+    ],
+    "bytes": 245126,
+    "sha256": "c903dcf56c0cad267dbd7b0204fedb91cf247bb5787382b4e9e0b724244a6a22",
+    "asset": "assets/round2-public-3.jpg"
+  },
+  {
+    "number": 66,
+    "file": "c4de20ad84e687b45fbc6197350b6501.jpg",
+    "source": "D:\\电脑管家迁移文件\\xwechat_files\\wxid_mteh5d3qmkrl22_4308\\temp\\RWTemp\\2026-10\\f4712ca00ef247b3ce161ceea1735343\\c4de20ad84e687b45fbc6197350b6501.jpg",
+    "use": "第二轮公开相册新增照片4，第二通电话结束后解锁",
+    "exists": true,
+    "readable": true,
+    "dimensions": [
+      1280,
+      1707
+    ],
+    "bytes": 263038,
+    "sha256": "7381a8101eaaeacb5cce6fa08dd482cb73605b5c191837cdb0f34bb6bf7f5006",
+    "asset": "assets/round2-public-4.jpg"
+  }
+]

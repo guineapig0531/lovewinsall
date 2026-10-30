@@ -1,0 +1,116 @@
+[
+  {
+    "file": "f3457740b200f114126c299baa37a4f9.mp4",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\f3457740b200f114126c299baa37a4f9.mp4",
+    "use": "FaceTime视频1",
+    "exists": true,
+    "bytes": 356367,
+    "sha256": "a893a23a2d07e6579b9d31c346db45ac3c50daa4ab0ec3e9f9f034d2d1c162d4",
+    "asset": "assets/facetime-youngjae.mp4",
+    "duration_seconds": 5.7,
+    "dimensions": [
+      720,
+      1168
+    ],
+    "readable": true,
+    "validation": "电脑浏览器已解码并播放"
+  },
+  {
+    "file": "01.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\01.jpg",
+    "use": "英宰X推文原稿",
+    "exists": true,
+    "bytes": 108199,
+    "sha256": "8249865913ebd8b8af11b444a032946924303bec1c815be2e74b0d4cde6d18aa",
+    "asset": "assets/round2-x-01.jpg",
+    "dimensions": [
+      1179,
+      1281
+    ],
+    "readable": true
+  },
+  {
+    "file": "02.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\02.jpg",
+    "use": "英宰X推文原稿",
+    "exists": true,
+    "bytes": 93353,
+    "sha256": "bd8ea7f9c26c1cf858fe4901fece7f3d66521f4d545db58a6bdcccd8406c5ab6",
+    "asset": "assets/round2-x-02.jpg",
+    "dimensions": [
+      1179,
+      963
+    ],
+    "readable": true
+  },
+  {
+    "file": "03.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\03.jpg",
+    "use": "英宰X推文原稿",
+    "exists": true,
+    "bytes": 154704,
+    "sha256": "fb095838911444575d8695aedd33fcee60de5af9a4ceb8b14e9412a8b277d246",
+    "asset": "assets/round2-x-03.jpg",
+    "dimensions": [
+      1179,
+      1689
+    ],
+    "readable": true
+  },
+  {
+    "file": "04.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\04.jpg",
+    "use": "英宰X推文原稿",
+    "exists": true,
+    "bytes": 64229,
+    "sha256": "52916258e7521009e7b92bb2abfe49c43f0e27206307296d00e841197373ca5c",
+    "asset": "assets/round2-x-04.jpg",
+    "dimensions": [
+      1179,
+      588
+    ],
+    "readable": true
+  },
+  {
+    "file": "05.jpg",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\05.jpg",
+    "use": "英宰X主页原稿及头像来源",
+    "exists": true,
+    "bytes": 227691,
+    "sha256": "3f62c1b7fbd7b1d746dc17f7f03a470687e739281831d1f58a32e7b311120dcf",
+    "asset": "assets/round2-x-05.jpg",
+    "dimensions": [
+      1206,
+      2622
+    ],
+    "readable": true
+  },
+  {
+    "file": "中文 FaceTime 双屏通话界面ԥсҭазаара.png",
+    "source": "C:\\Users\\猫狗双全\\Desktop\\中文 FaceTime 双屏通话界面ԥсҭазаара.png",
+    "use": "FaceTime内部界面参考",
+    "exists": true,
+    "bytes": 1695991,
+    "sha256": "8285017d18754bf4240710f797fe97c13f8ae11bf7bdbee2053f64959ad88a31",
+    "asset": "assets/round2-facetime-reference.png",
+    "dimensions": [
+      1448,
+      1086
+    ],
+    "readable": true
+  },
+  {
+    "file": "c0954aeaa601c06583ac43d7902a7ace.jpg",
+    "source": "D:\\电脑管家迁移文件\\xwechat_files\\wxid_mteh5d3qmkrl22_4308\\temp\\RWTemp\\2026-10\\f4712ca00ef247b3ce161ceea1735343\\c0954aeaa601c06583ac43d7902a7ace.jpg",
+    "use": "第二通来电结束后的新增KakaoTalk对话原稿",
+    "exists": true,
+    "bytes": 67449,
+    "sha256": "da053631191cd38b6b1f9b3a9a883c519d28a68eab718c3321b233a23d51f4e2",
+    "asset": "assets/round2-kakao.jpg",
+    "dimensions": [
+      1206,
+      870
+    ],
+    "readable": true
+  }
+]
